@@ -1,45 +1,7 @@
 .App {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #FDFDFD;
 }
 
-.header-title {
-  text-align: center;
-  font-size: 26px;
-}
 
-.card {
-  background-color: rgb(223, 223, 223);
-  height: 300px;
-  margin: 10px;
-  border-radius: 10px;
-}
-
-ul {
-  list-style: none;
-}
-
-li {
-  text-align: center;
-  width: 100px;
-  border-radius: 3px;
-  padding: 10px;
-  margin: 3px 10px 3px 10px;
-  background-color: black;
-}
-
-li:hover {
-  transition: .2s;
-  cursor: pointer;
-  background-color: white;
-  color: rgb(0, 0, 0);
-}
-
-.sub-header {
-  background-color: rgb(0, 0, 0);
-  color: white;
-  font-size: 16px;
-  display: flex;
-  justify-content: start;
-  align-items: center;
-}
 

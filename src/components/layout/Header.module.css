@@ -1,0 +1,18 @@
+.header {
+    background-color: white;
+}
+
+.header img {
+    height: 52px;
+    margin: 1em;
+}
+
+.header ul {
+    list-style: none;
+    display: flex;
+}
+
+.header li {
+    padding: 1em;
+    text-decoration: none;
+}
